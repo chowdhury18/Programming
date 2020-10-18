@@ -1,0 +1,16 @@
+{
+    "name": "functional-programming",
+    "version": "1.0.0",
+    "description": "functional programming javascript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "functional",
+        "programming"
+    ],
+    "author": "Arnab",
+    "license": "ISC",
+    "type": "module"
+}
