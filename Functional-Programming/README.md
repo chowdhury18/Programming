@@ -23,3 +23,6 @@ npm init
 ```
 node index.js
 ```
+
+## References
+- [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
